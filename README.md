@@ -5,6 +5,7 @@ Project Overview:
 I searched for and chose an appropriate dataset on Kaggle that would meet a typical superstore demand on a global scale in my pursuit of knowledge and awareness of which items, geographies, categories, and consumer segments a company should target or avoid. Companies are looking for strategies to maximize earnings in light of the market’s fierce competition and expanding demands.
 
 Data Cleaning:
+
 In order to clean the data, duplicates must be eliminated and null or missing values must be handled. I began by putting the data into a dataframe from a csv file using the Python pandas library, then I imported the necessary libraries and prepared the data for future analysis.
 
 I went on to analyze the data by asking some questions relevant to the insights to be gotten from the data. The questions asked are as follows.
